@@ -9,3 +9,5 @@ The data used to create this graph was taken from the [U.S. Department of Treasu
 I recreated this graph to learn more about working with Three.js. I, in no way, claim ownership of the original graph published by the NYT. They did a much better job, and I want to thank Gregor Aisch and Amanda Cox for doing such inspiring work. 
 
 The code in this repo is part of a blog post on [Bocoup.com](http://bocoup.com). 
+
+[blog](https://bocoup.com/blog/learning-three-js-with-real-world-challenges-that-have-already-been-solved)
